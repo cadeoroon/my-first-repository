@@ -1,3 +1,3 @@
 # Learning Git
 
-Hello world, i love using git
+Hello world, this shit is wild
