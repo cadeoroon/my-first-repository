@@ -1,3 +1,3 @@
 # Learning Git
 
-Hello world, this shit is wild
+Finally got the repositories to connect!!
